@@ -1,0 +1,22 @@
+{
+ "schema": 1,
+ "updated": "2026-11-09T12:02:45Z",
+ "repo": "amd-songpiao/FlyDSL",
+ "runs": [
+  {
+   "run_id": 42613563081,
+   "pr": null,
+   "commit": "affc0d40881586f1905f3df95b2e3534f062560c",
+   "branch": "main",
+   "event": "push",
+   "title": "[CI] Label kernel-only pull requests automatically (#1388)",
+   "status": "completed",
+   "conclusion": "failure",
+   "url": "https://github.com/amd-songpiao/FlyDSL/actions/runs/42613563081",
+   "created_at": "2026-11-09T12:01:21Z",
+   "updated_at": "2026-11-09T12:02:31Z",
+   "actor": "amd-songpiao",
+   "jobs": []
+  }
+ ]
+}
